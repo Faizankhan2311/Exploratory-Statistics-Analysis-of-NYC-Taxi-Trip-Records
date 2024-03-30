@@ -1,4 +1,5 @@
 # Exploratory-Statistics-Analysis-of-NYC-Taxi-Trip-Records
+You can get the dataset used for this project here - https://query.data.world/s/jzymkzwbc6d77rqkd5tk5yflxtv663?dws=00000
 Project Description:
 
 The aim of this project was to conduct a comprehensive analysis of the New York City (NYC) Taxi Trip dataset to extract valuable insights regarding fare amounts and payment types. The dataset used in this analysis contains a vast amount of information regarding taxi trips, including fare amounts, payment methods, trip durations, and various other attributes.
